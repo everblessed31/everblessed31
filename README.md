@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Blessing Ogar
-- 👀 I’m interested in Internship/Entry Level/Application Support Roles
-- 🌱 I’m currently learning PHP and Laravel
+- 👀 I’m interested in an Entry Level Data Analyst, Application Support, IT Support Roles
 - 💞️ I’m looking to collaborate on Front-End/ Back-End Projects
-- 📫 How to reach me on my Email: bamehogar@gmail.com, Mobile Number: +2438166076280, Linkedin url: www.linkedin.com/in/blessingogar
+- 📫 How to reach me on my Email: bamehogar@gmail.com, Mobile Number: +2438166076280, Linkedin url: https://www.linkedin.com/in/blessingogar/
+- 🌱 
 
 <!---
 everblessed31/everblessed31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
