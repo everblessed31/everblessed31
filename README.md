@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Blessing Ogar
-- 👀 I’m interested in Data Analyst, Application Support, IT Operations Roles
-- 💞️ I’m looking to collaborate on Front-End/ Back-End Projects
+- 👀 I’m interested in Data Analyst, BI Analyst, Application Support, IT Operations Roles
+- 💞️ I’m looking to collaborate on Data Analysis and Business Intelligent 
 - 📫 How to reach me on my Email: bamehogar@gmail.com, Mobile Number: +2438166076280, Linkedin url: https://www.linkedin.com/in/blessingogar/
 - 🌱 
 
